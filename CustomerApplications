@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+<body>
+
+<head>
+Customer List
+
+</head>
+
+<table>
+
+  <tr>
+    <th>Regno</th>
+    <th>Company Name</th>
+  </tr>
+  
+  <tr>
+  <td> 1</td>
+  <td> Google </td>
+  </tr>
+  
+  <tr>
+  <td> 2</td>
+  <td> Yahoo </td>
+  </tr>
+  
+  <tr>
+  <td> 3</td>
+  <td> Microsoft</td>
+  </tr>
+  
+</table>
+
+</body>
+</html>
+
